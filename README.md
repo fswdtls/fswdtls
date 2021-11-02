@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TAN Li Sen
+- 👋 Hi, I’m TAN Li Sen @fswdtls
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Capstone Project
 - 📫 You may reach me at: 88756037 or fswd.tls@gmail.com
