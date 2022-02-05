@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-05T02:59:54.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="HELFbSCHliOV9PIyi83I" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-05T03:38:49.877Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="tgiMQxRnYPwM75PRr_XS" version="16.5.2" type="github">
   <diagram id="DzTHY3E17_GXbLJWhHXe" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="UImLj_C8Jq4_gZNtJS-J-17" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UImLj_C8Jq4_gZNtJS-J-18" value="avail" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UImLj_C8Jq4_gZNtJS-J-18" value="holds" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UImLj_C8Jq4_gZNtJS-J-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UImLj_C8Jq4_gZNtJS-J-18" target="UImLj_C8Jq4_gZNtJS-J-14">
